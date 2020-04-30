@@ -12,7 +12,7 @@
   "dependencies": {
     "react": "16.9.0",
     "react-native": "0.61.5",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "react-native-cn-richtext-editor": "^2.0.0-rc3",
     "react-native-webview": "^8.1.1"
   },
